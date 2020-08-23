@@ -1,6 +1,10 @@
 # Let's Get **Started**
 
 ---
+#Separate each slid with '---'
+#Slid functions (movement) regulated by '@'
+
+---
 
 ### Add Some Slide Candy
 
