@@ -1,5 +1,6 @@
 Master: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/in-60-seconds/master?grs=github)  
 Forked: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/jaejinchoi/in-60-seconds)  
+Modify [PITCHME.md](./PITCH.ME)
 
 # GitPitch In 60 Seconds
 
